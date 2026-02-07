@@ -1,0 +1,57 @@
+ougida:
+  label: "扇田"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=302082182211110&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+futatui:
+  label: "二ツ井"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=302082182211040&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+yonaisawa:
+  label: "米内沢"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=302082182211130&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+yazu:
+  label: "桧木内川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=302091282210120&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+oosawano:
+  label: "大沢野大橋"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=304081284408010&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+daimon:
+  label: "庄川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=304091284408040&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+gomatubasi:
+  label: "五松橋"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=306071286601050&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+inari:
+  label: "稲荷"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305091285502130&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+horado:
+  label: "板取川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305091285502220&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+jouro:
+  label: "益田川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305091285502070&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+takahara:
+  label: "高原川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=304081284418020&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+tuketi:
+  label: "付知川"
+  url: "https://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305091285519050&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+keta:
+  label: "気田川"
+  url: "https://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305051285510070&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+yahagi:
+  label: "矢作川"
+  url: "https://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=305071285520020&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+sendai:
+  label: "千代川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=307011287701020&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+hattou:
+  label: "八東川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=307011287701090&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+takato:
+  label: "高津川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=307061287707020&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+hikimi:
+  label: "匹見川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=307061287707060&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
+kumano:
+  label: "熊野川"
+  url: "http://www1.river.go.jp/cgi-bin/DspWaterData.exe?KIND=2&ID=306011286613010&BGNDATE=datelabel&ENDDATE=yearlabel1231&KAWABOU=NO"
